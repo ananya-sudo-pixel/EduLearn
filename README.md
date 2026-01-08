@@ -15,7 +15,7 @@ This repository serves as a documentation space for the project, including visua
 ---
 
 ## 🖼️ Project Screenshots
-Screenshots showcasing the user interface and layout of the application are available in the `screenshots` folder.
+Screenshots showcasing the user interface and layout of the application are available in the `EduLearn-Screenshots` folder.
 
 ---
 
